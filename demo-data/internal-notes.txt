@@ -1,0 +1,1 @@
+Demo note: documents are deliberately served through a restricted file resolver.
